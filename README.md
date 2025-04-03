@@ -31,3 +31,6 @@ Bouncy Ball is a small physics-based game that simulates the movement of a ball 
 - Introduce different materials (e.g., rubber, metal) with varying bounce behaviors.
 
 Enjoy bouncing! 🚀
+
+> [!NOTE]
+> The web version of the game is very glitchy and laggy. so i recommend downloading the python file or the exe to play it!
