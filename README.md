@@ -19,6 +19,9 @@ Bouncy Ball is a small physics-based game that simulates the movement of a ball 
 
 **Energy Conservation**: A slight energy loss on each bounce prevents infinite bouncing, making it feel more natural.
 
+**Time control**: By moving the mouse wheel up and down, you can alter the time scale. (make it slow-motion or hyperlapse)
+
+**Radius Control**: While holding the ball, if you use mouse wheel, you can increase or decrease the radius as per your wish.
 
 ## Future Improvements (Optional Ideas):
 -Add interactive elements like obstacles or moving platforms.
@@ -28,4 +31,3 @@ Bouncy Ball is a small physics-based game that simulates the movement of a ball 
 -Introduce different materials (e.g., rubber, metal) with varying bounce behaviors.
 
 Enjoy bouncing! 🚀
-
